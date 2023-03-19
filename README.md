@@ -1,2 +1,2 @@
 # springkafkaconsumer
-Spring Boot and Kafka: Building Kafka Producer Application
+Spring Boot and Kafka: Building Kafka Consumer Application
